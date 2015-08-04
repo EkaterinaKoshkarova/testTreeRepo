@@ -10,31 +10,31 @@
 	<string>testApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>1BEDAE9C1B90E0AA63C60C08E830EF5184A6671F</key>
-		<string>github.com:EkaterinaKoshkarova/testApp.git</string>
+		<key>318AECAD6712677AE147548B03AF28FC54EEEA28</key>
+		<string>github.com:EkaterinaKoshkarova/testTreeRepo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>testApp.xcworkspace</string>
+	<string>testApplink/testApp.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>1BEDAE9C1B90E0AA63C60C08E830EF5184A6671F</key>
-		<string>..</string>
+		<key>318AECAD6712677AE147548B03AF28FC54EEEA28</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:EkaterinaKoshkarova/testApp.git</string>
+	<string>github.com:EkaterinaKoshkarova/testTreeRepo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>1BEDAE9C1B90E0AA63C60C08E830EF5184A6671F</string>
+	<string>318AECAD6712677AE147548B03AF28FC54EEEA28</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>1BEDAE9C1B90E0AA63C60C08E830EF5184A6671F</string>
+			<string>318AECAD6712677AE147548B03AF28FC54EEEA28</string>
 			<key>IDESourceControlWCCName</key>
-			<string>TestApp</string>
+			<string>testTreeRepo</string>
 		</dict>
 	</array>
 </dict>
